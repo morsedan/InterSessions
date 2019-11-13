@@ -11,4 +11,4 @@ Your #1 Customer (Who would use your app? Why now?) Anyone who prays.
 
 Github code repository: 
 
-Github Project/Trello Board: https://trello.com/b/FYUuI4EB/80-20-heart-rate-tracker
+Github Project/Trello Board: https://trello.com/invite/b/7lE64PI9/8c4dc3eefbf3fccc05da0b461baef88e/template
